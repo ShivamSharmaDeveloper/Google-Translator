@@ -1,6 +1,6 @@
 from googletrans import Translator
 
-sentence = str(input("Type any word or sentece you want to translate: "))
+sentence = input("Type any word or sentece you want to translate: ")
 
 translator = Translator()
 
